@@ -1,2 +1,2 @@
-# projeto-final
+# PRJ-PedroNunes-SamuelVentura
 LEIM Final Project Repository
