@@ -11,6 +11,7 @@ This work arises due to the problem of storing the data that is recorded by the 
 ### Programming Languages Involved:
 * Python;
 * PHP;
+* JavaScript;
 
 ### Technologies Involved:
 * MongoDb;
